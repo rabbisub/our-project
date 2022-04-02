@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NActivity"
+    android:background="#FFDEDE"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Nitrogen"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+
+        >
+
+    </TextView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableLayout
+                android:layout_marginTop="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:text="General properties"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Apperance:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="colorless gas, liquid or solid"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="left"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Standard atomic weight(Ar):"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="[14.00643, 14.00728] conventional: 14.007"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Atomic number (Z):"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="7"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Group, Period:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="	group 15 (pnictogens),period 2"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Block:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="p-block"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Element category:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="diatomic nonmetl"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Electron configuration:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:text="[He] 2s^2 2p^3"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+                <TableRow
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    >
+                    <TextView
+                        android:text="Electrons per shell:"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="right"
+
+                        />
+                    <TextView
+                        android:paddingLeft="10dp"
+                        android:text="	2, 5"
+                        android:textColor="@color/black"
+                        android:textSize="20sp"
+                        android:gravity="center"
+
+                        />
+                </TableRow>
+
+
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/n" />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nitrogen"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="For more information"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/nBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Click here"
+        android:textSize="20sp" />
+
+
+</LinearLayout>
