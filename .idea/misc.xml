@@ -3,20 +3,139 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PeriodicTable/app/src/main/res/drawable/bg_round.xml" value="0.1055" />
         <entry key="..\:/PeriodicTable/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.3465" />
         <entry key="..\:/PeriodicTable/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.3465" />
         <entry key="..\:/PeriodicTable/app/src/main/res/drawable/ic_launcher.xml" value="0.1765" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/about.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_about.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_al.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_al_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_alkali.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_alkaline.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ar.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ar_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_as.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_as_web.xml" value="0.1515625" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_bactivity.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_be.xml" value="0.24909420289855072" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_be_web.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_br.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_br_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_bweb.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ca.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ca_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cactivity.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cl.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cl_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_co.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_co_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cr.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cr_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cu.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cu_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_cweb.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_dash_board.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_drawer.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_drawew.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_facebook.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_factivity.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_fb_rabbi.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_fb_riadul.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_fe.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_fe_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_feed_back.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_fweb.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ga.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ga_web.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ge.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ge_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_group.xml" value="0.1" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_hactivity.xml" value="0.29438405797101447" />
-        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_he.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_he.xml" value="0.33" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_he_web.xml" value="0.34479166666666666" />
-        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_home.xml" value="0.33605072463768115" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_hweb_view.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_insta.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_insta_rabbi.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_insta_riadul.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_instagram.xml" value="0.2" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_kactivity.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_kr.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_kr_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_kweb.xml" value="0.34479166666666666" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_li.xml" value="0.340625" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_li_web.xml" value="0.34479166666666666" />
-        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_main.xml" value="0.33605072463768115" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_mai.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_mg.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_mg_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_mn.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_mn_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_n.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_na.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_na_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_nactivity.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_nb.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_nb_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ne.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ne_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ni.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ni_web.xml" value="0.3307291666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_nweb.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_oactivity.xml" value="0.32051282051282054" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_oweb.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_pactivity.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_pweb.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_sactivity.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_sc.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_sc_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_se.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_se_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_si.xml" value="0.22" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_si_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_slide.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_sweb.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ti.xml" value="0.1206896551724138" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ti_web.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubb.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubh.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubn.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubp.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubq.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubs.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubt.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_ubu.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_uue.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_vactivity.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_vweb.xml" value="0.22192028985507245" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_zn.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/activity_zn_web.xml" value="0.34479166666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/app_bar_drawew.xml" value="0.16767983789260385" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/content_drawew.xml" value="0.16767983789260385" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/elements_view.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/header_menu.xml" value="0.33" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/home.xml" value="0.1" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/homeactivity.xml" value="0.33605072463768115" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/list_view.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/listview.xml" value="0.10833333333333334" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/main_activity.xml" value="0.16770833333333332" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/main_fragment.xml" value="0.16770833333333332" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/nav_activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/nav_header_drawew.xml" value="0.16767983789260385" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/navigation_header.xml" value="0.33" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/sampleview.xml" value="0.10833333333333334" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/layout/search_view_layout.xml" value="0.34479166666666666" />
         <entry key="..\:/PeriodicTable/app/src/main/res/layout/table_layout.xml" value="0.16354166666666667" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/dot_menu.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/navigationmenu.xml" value="0.25" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/search.xml" value="0.1" />
+        <entry key="..\:/PeriodicTable/app/src/main/res/menu/search_menu.xml" value="0.34479166666666666" />
         <entry key="..\:/PeriodicTable/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3465" />
         <entry key="..\:/PeriodicTable/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1765" />
       </map>

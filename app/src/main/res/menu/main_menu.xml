@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_veiw">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_navi"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item android:id="@+id/group_navi"
+            android:title="Group"
+            android:icon="@drawable/ic_baseline_group_24"/>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Follow Us On">
+            <menu>
+                <group>
+                    <item android:title="Facebook" android:id="@+id/facebook_navi" android:icon="@drawable/facebook"/>
+                    <item android:title="Instagram" android:id="@+id/instagram_navi" android:icon="@drawable/instagram"/>
+                </group>
+            </menu>
+        </item>
+    </group>
 
 </menu>

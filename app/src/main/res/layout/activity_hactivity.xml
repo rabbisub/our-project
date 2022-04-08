@@ -8,8 +8,6 @@
     android:background="#FFDEDE"
     android:orientation="vertical">
 
-
-
     <TextView
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
@@ -30,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
           <TableLayout
-           android:layout_marginTop="30dp"
+           android:layout_marginTop="10dp"
            android:layout_width="match_parent"
            android:layout_height="wrap_content">
            <TableRow
@@ -48,7 +46,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Apperance:"
@@ -70,7 +68,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Standard atomic weight(Ar):"
@@ -92,7 +90,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Atomic number (Z):"
@@ -114,7 +112,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Group, Period:"
@@ -136,7 +134,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Block:"
@@ -158,7 +156,7 @@
            <TableRow
                android:layout_marginLeft="20dp"
                android:layout_marginRight="20dp"
-               android:layout_marginTop="20dp"
+               android:layout_marginTop="10dp"
                >
                <TextView
                    android:text="Element category:"
@@ -228,13 +226,13 @@
     </ScrollView>
 
     <ImageView
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="40dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:src="@drawable/h" />
     <TextView
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Purple glow in its plasma state"
@@ -243,7 +241,7 @@
         android:textColor="@color/black"/>
 
     <TextView
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="For more information"

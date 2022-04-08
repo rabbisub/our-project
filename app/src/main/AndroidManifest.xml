@@ -12,6 +12,270 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PeriodicTable">
         <activity
+            android:name=".KrWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BrWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AsWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GeWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GaWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZnWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZnActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CuWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NiWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MnWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MnActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CrWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TiWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ScWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ScActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbnActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbbActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbtActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbqActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbhActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CaWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ArWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ArActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ClWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ClActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SiWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MgWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MgActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NaWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NeWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FWebActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NbWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NbActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlkalineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlkaliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GroupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UbsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeedBackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaRiadulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaRabbiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".InstagramActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FbRiadulActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FbRabbiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FacebookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BeWebActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BeActivity"
+            android:exported="false" />
+        <activity
             android:name=".LiWebActivity"
             android:exported="true" />
         <activity
@@ -30,7 +294,7 @@
             android:name=".hActivity"
             android:exported="false" />
         <activity
-            android:name=".HomeActivity"
+            android:name=".DrawerActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

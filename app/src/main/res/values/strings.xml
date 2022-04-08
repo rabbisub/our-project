@@ -1,6 +1,29 @@
 <resources>
     <string name="app_name">PeriodicTable</string>
+    <string name="menu_Open">Open</string>
+    <string name="close_menu">Close</string>
     <string name="per">Periodic Table</string>
     <string name="title">A first year project work</string>
     <string name="home_page_title">Periodic Table</string>
+
+    <string name="about">It\'s our first year project work.It\'s basically our newly known thing that\'s we emplement\'s in this project.</string>
+    <string name="_127_nubs">127\nUbs</string>
+    <string name="alkali_metals">Alkali metals</string>
+    <string name="alkaline_earth_metal">Alkaline-earth metal</string>
+    <string name="transition_metals">Transition metals</string>
+    <string name="other_nonmetals">Other nonmetals</string>
+    <string name="nobles_gases">Nobles gases</string>
+    <string name="rare_earth_elements_and_lanthanoid_elements">Rare-earth elements and lanthanoid elements</string>
+    <string name="acrinoid_elements">Acrinoid elements</string>
+    <string name="types_of_elements">Types of elements</string>
+
+    <string name="ques1">The alkali metals are six chemical elements in Group 1, the leftmost column in the periodic table. They are lithium (Li), sodium (Na), potassium (K), rubidium (Rb), cesium (Cs), and francium (Fr). (Like the other elements in Group 1, hydrogen (H) has one electron in its outermost shell, but it is not classed as an alkali metal since it is not a metal but a gas at room temperature.)</string>
+    <string name="h1">What is the definition of an alkali metal?</string>
+    <string name="h2">Why are they called the alkali metals?</string>
+    <string name="ques2">The alkali metals are so named because when they react with water they form alkalies. Alkalies are hydroxide compounds of these elements, such as sodium hydroxide and potassium hydroxide. Alkalies are very strong bases that are caustic. Lye, for example, is sodium hydroxide. Alkalies react with acids to form salts.</string>
+    <string name="h3">What are some properties of the alkali metals?</string>
+    <string name="ques3">The alkali metals have low melting points. Lithium melts at 180.5 °C (356.9 °F); cesium melts at just 28.4 °C (83.1 °F). These elements are also excellent conductors of heat and electricity. The alkali metals are very reactive and so are usually found in compounds with other elements, such as salt (sodium chloride, NaCl) and potassium chloride (KCl).</string>
+    <string name="h4">What is the most common alkali metal?</string>
+    <string name="ques4">The most common alkali metal is sodium, which is 2.8 percent of Earth’s crust. The most common sodium compound is sodium chloride (NaCl), salt. The next most common is potassium, which is 2.6 percent of Earth’s crust. The other alkali metals are much rarer. Rubidium, lithium, and cesium are 0.01, 0.002, and 0.0007 percent of Earth’s crust, respectively. Francium is radioactive, and only minute amounts of it exist in nature.</string>
+
 </resources>

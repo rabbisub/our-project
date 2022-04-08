@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 // This method will be executed once the timer is over
-                Intent intent=new Intent(MainActivity.this, HomeActivity.class);
+                Intent intent=new Intent(MainActivity.this, DrawerActivity.class);
                 startActivity(intent);
                 finish();
             }
